@@ -1,0 +1,15 @@
+CURSOS DE GIT MECATRONICA
+
+comando esenciales:
+
+git init // Iniciar GIT
+git config --global user.name "usuario" // crear un usuario
+git config --global user.email "correo" // crear un correo eletronico
+clear //limpiar los comandos
+git status // mirar commit o archivos
+git add . //selecionar archivos tanto en (.) para todos los archivos o selecionar un nombre de archivo "name"
+git commit -m "primer commint" // crear una commit
+got log //mirar que parte estoy trabando y cuantas  commint tengo
+git config credential.username "nuevo usuario" // es por si le da error en push
+git remote add origin https://github.com/GoldyLaranda/Codigo-de-Git-Actualizado-2024.git  (conectar gitgub
+git push -u origin main ) // sube a la nube
